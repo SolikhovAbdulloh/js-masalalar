@@ -107,3 +107,40 @@
       
     //   return front + front + front;
     // }
+
+    // 13-masala 
+
+//     function backAround(str){
+    
+//     let lastChar = str.charAt(str.length - 1);
+    
+//     return lastChar + str + lastChar;
+// }
+// }
+
+    //14-masala
+
+    // function isMultipleOf3Or5(num) {
+    //   return num % 3 === 0 || num % 5 === 0;
+    // }
+
+    //15-masala 
+
+    // function n(str) {
+    //   let n = str.slice(0, 2);
+
+    //   return n + str + front;
+    // }
+
+    //16-masala
+
+    // function startsWithHi(str) {
+      
+    //   return str.startsWith("hi");
+    // }
+
+    //17-masala 
+
+//   function checkTemperatures(temp1, temp2) {
+//     return (temp1 < 0 && temp2 > 100) || (temp1 > 100 && temp2 < 0);
+//   }
