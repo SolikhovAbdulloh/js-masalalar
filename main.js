@@ -144,3 +144,41 @@
 //   function checkTemperatures(temp1, temp2) {
 //     return (temp1 < 0 && temp2 > 100) || (temp1 > 100 && temp2 < 0);
 //   }
+
+// 18-masala 
+    // function in1020(num1, num2) {
+    //   return (num1 >= 10 && num1 <= 20) || (num2 >= 10 && num2 <= 20);
+    // }
+
+    // 19-masala
+
+    // function hasTeen(num1, num2, num3) {
+    //   const isTeen = (num) => num >= 13 && num <= 19;
+    //   return isTeen(num1) || isTeen(num2) || isTeen(num3);
+    // }
+
+    // 20-masala
+
+    // function isTeen(num1, num2) {
+    //   const isTeen = (num) => num >= 13 && num <= 19;
+
+    //   return (isTeen(num1) && !isTeen(num2)) || (!isTeen(num1) && isTeen(num2));
+    // }
+
+    // 21-masala
+
+    // function deleteDel(str) {
+    //   if (str.substring(1, 4) === "del") {
+    //     return str.charAt(0) + str.substring(4);
+    //   }
+    //   return str;
+    // }
+
+    // 22-masala
+
+
+    // function mixStart(str) {
+    //   return str.length >= 3 && str.substring(1, 4) === "ix";
+    // }
+
+    
